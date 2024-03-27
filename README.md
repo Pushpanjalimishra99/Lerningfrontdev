@@ -1,4 +1,4 @@
 # Lerningfrontdev
 This is my first Git repository
 <br>
-Author-Pushpanjali(mishra)
+Author-Pushpanjali(mishr)
